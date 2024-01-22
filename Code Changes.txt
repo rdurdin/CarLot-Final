@@ -1,0 +1,6 @@
+Raegan Durdin code changes for CarLot Project
+-----------------------------------------------------
+- The thing I added to the program was for at the very end, when the user exits out, it launches
+the carlot.csv file so the user can see that the neccesarry changes were added correctly
+and the information was saved successfully. This is easier then going back into your files and
+finding the carlot.csv file to check that everything was correct.
